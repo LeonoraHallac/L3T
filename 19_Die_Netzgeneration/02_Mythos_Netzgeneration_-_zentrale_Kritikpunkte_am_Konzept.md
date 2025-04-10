@@ -9,7 +9,7 @@ Besonders deutlich wird diese Kritik durch Kirschner & De Bruyckere (2017): in *
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
-### FAZIT!
+### !
 
 Das Konzept einer Netzgeneration ist veraltet und beruht nicht auf tragfähiger empirischer Forschung, sondern auf vereinfachenden Annahmen, Einzelbeobachtungen und Vorurteilen - oftmals aus einem westlich-urbanen geprägten Mittelklassekontext. 
 
@@ -19,7 +19,7 @@ Das Konzept einer Netzgeneration ist veraltet und beruht nicht auf tragfähiger 
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
-### FAZIT!
+### !
 
 Die Mediennutzung junger Menschen ist alles andere als einheitlich. Sie ist differenzierbar, stark kontextabhängig und durch soziale Ungleichheiten geprägt, was dem Bild einer universell übertragbaren Netzgeneration widerspricht.  
 
@@ -27,11 +27,11 @@ Die Mediennutzung junger Menschen ist alles andere als einheitlich. Sie ist diff
 
 **Argumentation ist von technologischem Determinismus durchzogen**: Die Verfechterinnen und Verfechter der „Netzgeneration“, insbesondere Prensky (2001), argumentieren, dass die behaupteten Formen des Medienhandelns und der Eigenschaften der Kinder und Jugendlichen der „Netzgeneration“ unmittelbar aus dem Vorhandensein der digitalen Technologien und dem selbstverständlichen Umgang damit resultieren. Hier scheint eine Argumentationsfigur des technologischen Determinismus auf: Die Technologien scheinen quasi unabhängig von den handelnden Subjekten eine Kraft und eigenmächtige Wirkung auf die Mitglieder der sogenannten „Netzgeneration“ zu entfalten. Dass Mediennutzung immer soziales Handeln ist, das von verschiedenen soziokulturellen Faktoren beeinflusst wird und in einem komplexen Zusammenspiel von Subjekt und Technologien entsteht, wird ignoriert. Damit werden alle Erkenntnisse zu Sozialisationsprozessen einerseits und zur sozialen Konstruiertheit von Technologien andererseits nicht berücksichtigt. Technologien scheinen menschliches Handeln eindimensional zu bestimmen. Dieser Determinismus steht im krassen Widerspruch zur Komplexität menschlichen Handelns allgemein und der Medienaneignung im Speziellen (auch Buckingham, 2006).
 
-Selwyn (2016) stellt in *Education and Technology - Key Issues and Debates* dieser Sichtweise eine differenziertes Konzept gegenüber: Er betont, dass Technologie stets sozial konstruiert wird, un dass der Umgang mit digitalen Medien vom sozialen Umfeld, kulturen Normen und sozialer Gesellschaftschicht beeinflusst wird. Mediennutzung sei nie neutral, deterministisch oder automatisch, sondern immer abhängig von gesellschaftlichen Kontexten und Konzepten. Ähnlich argumentieren Livingstone & Sefton-Green (2016) in *The Class: Living and Learning in the Digital Age*. Die ethnografische Langzeitstudie an einer Londoner Schulklasse zeigt, dass Mediennutzung, wie bereits gezeigt, stark von schulischen Rahmenbedingungen und familiärer Förderung beeinflusst wird. 
+Selwyn (2016) stellt in *Education and Technology - Key Issues and Debates* dieser Sichtweise eine differenziertes Konzept gegenüber: Er betont, dass Technologie stets sozial konstruiert wird, und dass der Umgang mit digitalen Medien vom sozialen Umfeld, kulturen Normen und sozialer Gesellschaftschicht beeinflusst wird. Mediennutzung sei nie neutral, deterministisch oder automatisch, sondern immer abhängig von gesellschaftlichen Kontexten und Konzepten. Ähnlich argumentieren Livingstone & Sefton-Green (2016) in *The Class: Living and Learning in the Digital Age*. Die ethnografische Langzeitstudie an einer Londoner Schulklasse zeigt, dass Mediennutzung, wie bereits gezeigt, stark von schulischen Rahmenbedingungen und familiärer Förderung beeinflusst wird. 
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
-### !FAZIT
+### !
 
 Die Vorstellung, dass Technologie automatisch Kompetenz in der Mediennutzung impliziert, ist zu kurz gegriffen. Medienhandeln ist geprägt von komplexen sozialen Kontexten und kann nicht unabhängig davon verstanden werden. Statt einfacher Zuschreibung bedarf es einer differenzierten Betrachtung.
 
