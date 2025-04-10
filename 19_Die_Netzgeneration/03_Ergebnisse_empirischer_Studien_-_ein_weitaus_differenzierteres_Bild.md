@@ -59,6 +59,31 @@ Die beliebteste Online-Aktivität ist Spielen – 34 Prozent der Drei- bis Sechs
 
 Die JIM-Studie, durchgeführt vom Medienpädagoschen Forschungsverband Südwest, zeigt: Jugendliche sind nahezu durchgehend online. Fast alle besitzen ein Smartphone (98%) oder nutzen täglich Social Media (96%). Künstliche Intelligenz spielt eine wachsende Rolle: 57% der Jugendlichen haben, besonders im schulischen Zusammenhang, bereits Tools wie Chat GPT genutzt (57%). Die Studie betont die Notwendigkeit KI im pädagogischen Zusammenhang zu begleiten und notwendige Werkzeuge bereitzustellen, um eine kritische Nutzung zu fördern. Die Studie zeigt vorallem, dass sich die Mediennutzung stark im Inhalt und Umfang variiert. Alter, Geschlecht und Bildungshintergrund beeinflussen die Nutzung deutlich. Jungen verbringen mehr Zeit mit Gaming, während Mädchen soziale Medien bevorzugen. Auch die Reflexion digitaler Inhalte hängt stark mit dem Bildungsgrad des sozialem Umfelds ab. Dieser Teil der Studie hat sich in gewisser Maßen kaum geändert. Wichtig anzumerken ist, die diverse Nutzung einer Vielzahl an unterschiedlicher Mediengeräten: in fast jeder Familien befinden sich bereits mehrere unterschiedliche Mediengeräte wie Smartphones, Computer, Laptop, Tablets, Smart Wearables.
 
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/05_JIMStudie_2024_Gerätebesitz_Vergleich_2023.jpg" alt="Abb. 5: Gerätebesitz Jugendlicher 2024 - Vergleich 2023">
+  <figcaption>Abb. 5: Gerätebesitz Jugendlicher 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/06_JIMStudie_2024_Medienbeschäftigung_in_der_Freizeit.jpg" alt="Abb. 6: Medienbeschäftigung in der Freizeit 2024 - Vergleich 2023">
+  <figcaption>Abb. 6: Medienbeschäftigung in der Freizeit 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/07_JIMStudie_2024_Erfahrend_von_Weltgeschehen.jpg" alt="Abb. 7: Ich erfahre über das aktuelle Weltgeschehen durch ... 2024 - Vergleich 2023">
+  <figcaption>Abb. 7: Ich erfahre über das aktuelle Weltgeschehen durch ... 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/08_JIMStudie_2024_HateSpeech_etc.jpg" alt="Abb. 8: Mir sind im letzten Monat im Internet begegnet ... 2024 - Vergleich 2023">
+  <figcaption>Abb. 8: Mir sind im letzten Monat im Internet begegnet ... 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/09_JIMStudie_2024_Nutzungsmotive_KI.jpg" alt="Abb. 9: Nutzungsmotive für KI-Anwendungen 2024">
+  <figcaption>Abb. 9: Nutzungsmotive für KI-Anwendungen 2024</figcaption>
+</figure></center>
+
 ## EU Kids Online (2020) - europäischer Mediennutzungsvergleich
 
 Die aktualisierte Studie EU Kids Online untersucht die Internetnutzung von Kindern und Jugendlichen in ganz Europa. Sie betont weiterhin große Unterschiede, wie im Zugang zu Geräten, der Art der Nutzung oder dem Bewusstsein für Risiken. Digitale Teilhabe ist stark vom sozioökonomischen Hintergrund, elterlicher Unterstützung und schulischen Angeboten abhängig. Es gibt also keine einheitliche Kompetenz, sondern eine Vielzahl individueller Ausprägungen. Noch dazu unterstreicht die Studie die aufkommenden Risiken für Kinder im Netz, und zeigt, dass die Jugend immer mehr Hate Speech oder problematischen Inhalten (wie Cybermobbing, Verherrlichung von Essstörungen, sexuellen Inhalten) ausgesetzt ist. Sie weißt auf einen Aufklärungsbedarf durch Aufsichtspersonen hin.
